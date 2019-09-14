@@ -1,0 +1,2 @@
+- Core Java - 10th Edition (Vol 1 & 2)
+- Ebooks and source code: http://horstmann.com/corejava/index.html
